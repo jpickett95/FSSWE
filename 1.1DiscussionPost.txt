@@ -1,0 +1,19 @@
+	
+
+	1. https://github.com/drhelius/Gearboy
+		○ I really liked this project, because I fell in love with gaming through Pokémon on the game boy. Ever since I started learning about programming and all the projects I could make, I had the idea of programming a raspberry pi to play game boy games. I was thinking of maybe finding a shell that I could use to even construct a handheld device that would play the games. This project of GitHub already has the support for multiple different platforms (including raspberry pi) so I plan on reviewing the source code to learn more about how it works. Of course I’d want to program everything from scratch myself, but this might give me a good base point to start.
+	
+	2. https://github.com/flutter/flutter
+		○ I found this open source software development kit for making apps by Google. I wanted to be able to make some apps for iOS, and this software allows a plug-in for Visual Studio. The UI looks very user friendly, and it’s a project by Google - the company I want to work for.
+		
+	3. https://github.com/godotengine/godot
+		○ Although I’m not necessarily interested in working in the gaming industry, I do love video games and have been interested in game engines. I’ve heard of godot, but didn’t even realize it was an open source project! I’ve heard it’s pretty nice to work with, and I’ve been meaning to explore how the engine works when making games. I think being able to look “under the hood” of an engine could help me learn more about constructing my own potentially.
+		
+	4. https://github.com/RasaHQ/rasa
+		○ I found this machine learning framework highly interesting, since I had ideas for a conversational application capable of holding a meaningful conversation with a human. I’m super intrigued about how a machine can be programmed to learn from its experience, and this framework is supposed to enable the virtual assistant to use context to build on previous things discussed. I find it super interesting to understand the logic behind a machine’s reason for an action/choice/decision/etc.
+		
+	5. https://github.com/CMU-Perceptual-Computing-Lab/openpose
+		○ I found this project super cool, because it can detect key points on multiple human bodies in single images. It’s cool to see how this open source program and can read visuals of a human, and map out the hands, feet, fingers, head, etc. and even update live! This type of software is what can help machines “see” and further Advance robotics.
+
+	6. https://github.com/github/gitignore
+		○ This is a collection of .gitignore templates created by github. There are templates for all different kinds of programming languages to help developers.
